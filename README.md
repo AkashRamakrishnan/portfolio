@@ -13,4 +13,4 @@ BTech. Electronics and Communication Engineering
 - Manipal University, India
 - 2018-2022
 
-### For Mastering Tinkering page, please head [here](tinkering.html). 
+### For Mastering Tinkering page, please head [here](tinkering/index.html). 
